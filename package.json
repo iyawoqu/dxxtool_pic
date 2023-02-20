@@ -1,6 +1,6 @@
 {
   "name": "iyawoqu_dxxtool_pic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/122cygf/iyawoqu_dxxtool_pic.git"
+    "url": "git+https://github.com/iyawoqu/dxxtool_pic.git"
   },
-  "author": "lzzcygf",
+  "author": "iyawoqu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/122cygf/iyawoqu_dxxtool_pic/issues"
+    "url": "https://github.com/iyawoqu/dxxtool_pic/issues"
   },
-  "homepage": "https://github.com/122cygf/iyawoqu_dxxtool_pic#readme"
+  "homepage": "https://github.com/iyawoqu/dxxtool_pic#readme"
 }
